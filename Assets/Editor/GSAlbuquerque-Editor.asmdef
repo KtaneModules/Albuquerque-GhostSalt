@@ -1,0 +1,10 @@
+{
+  "name": "GSAlbuquerque-Editor",
+  "references": [
+    "GSAlbuquerque"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}

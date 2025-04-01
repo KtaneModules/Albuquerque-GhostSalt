@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: GSAlbuquerque
+  title: Albuquerque
+  author: GhostSalt
+  description: "Well, to cut a long story short, he got away with my snorkel. But
+    I made a solemn vow right then and there that I would not rest \u2014 I would
+    not sleep for an instant \u2014 until the one-nostrilled man was brought to justice.
+    But first, I decided to buy some donuts.\n\nDidn't expect to get this done on
+    time, but I'm happy with how this turned out! Happy April Fool's day!\n\nand happy
+    twitch plays support too i guess :sob:"
+  version: 1.0
+  outputFolder: build
+  previewImage: {fileID: 2800000, guid: 7ecc97bb2f364f64fa46f6bcf8c08400, type: 3}
